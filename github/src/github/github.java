@@ -12,6 +12,7 @@ public class github {
 				repeticiones++;
 
 				System.out.println("Hola alumnos " + repeticiones);
+				System.out.println("");
 
 			}
 
